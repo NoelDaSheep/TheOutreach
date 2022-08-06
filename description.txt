@@ -1,0 +1,12 @@
+The Outreach is a small content mod that aims to eventually cover all 3 stages of progression. It is constantly being updated.
+
+The Outreach Currently adds:
+1 Boss
+1 Ore
+1 Weapon
+1 Armor Set
+
+----------------------------
+
+Programmer: NoelDaSheep
+Spriters: NoelDaSheep, MrPikachu007
