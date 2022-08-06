@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BfMhvCLqs9Dt9na3AvCYl0fka4IR4Ap3iKB7fZ1HlyPHWGIFT07l5kmtoD4Rx59pzLlg0IQ6ey2cF7FvP7+0zg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\starm\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TheOutreach\\TheOutreach.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\starm\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
